@@ -1,5 +1,5 @@
 # DeepFake
-A spare-time research project I started for my interest, challenge and experience - experimenting with auto-encoders, GANs, etc. to transfer gestures and maybe even voice between source and target videos.
+A professional spare-time research project I started for my interest, challenge and experience - experimenting with auto-encoders, GANs, etc. to transfer gestures and maybe even voice between source and target videos.
 
 ## Project Roadmap
 **(last update: 2019/10/15)**
